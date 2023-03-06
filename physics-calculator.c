@@ -29,7 +29,7 @@ scanf("%d", &formula);
 if (formula == 1)
   { printf("Speed\n");
     printf("The formula for speed is: \n speed = distance / time");
-    printf("Please enter the distance:\n ");
+    printf("\nPlease enter the distance:\n ");
       scanf("%f", &speed_distance);
     printf("Please enter the time: \n");
       scanf("%f", &speed_time);
